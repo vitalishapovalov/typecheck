@@ -46,19 +46,19 @@
   },
   "devDependencies": {
     "@jest-decorated/core": "0.1.7",
-    "@types/jest": "^27.0.2",
-    "@types/node": "^16.11.6",
-    "jest": "^27.3.1",
-    "rollup": "^2.26.10",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^26.6.6",
+    "jest": "^30.5.2",
+    "rollup": "^4.67.4",
     "rollup-plugin-commonjs": "^10.0.0",
     "rollup-plugin-node-resolve": "^5.0.3",
     "rollup-plugin-sourcemaps": "^0.6.2",
     "rollup-plugin-terser": "^7.0.2",
-    "rollup-plugin-typescript2": "^0.31.1",
-    "ts-jest": "^27.0.7",
-    "tslint": "^5.18.0",
+    "rollup-plugin-typescript2": "^0.37.0",
+    "ts-jest": "^29.4.15",
+    "tslint": "^6.1.3",
     "tslint-config-airbnb": "^5.11.1",
-    "typescript": "^4.0.2"
+    "typescript": "^7.0.2"
   },
   "jest": {
     "globals": {
